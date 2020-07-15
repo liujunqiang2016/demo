@@ -1,0 +1,4 @@
+park2.datasource.driver-class-name=com.mysql.jdbc.Driver
+park2.datasource.url=jdbc:mysql://192.168.5.128:3306/test
+park2.datasource.username=root
+park2.datasource.password=Liu@123!
