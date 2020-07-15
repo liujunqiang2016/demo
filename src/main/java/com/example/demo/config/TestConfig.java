@@ -6,6 +6,11 @@ import org.springframework.context.annotation.Configuration;
 
 import com.example.demo.domain.TestBean;
 
+/**
+ * test
+ * @author liujq-h
+ *
+ */
 //@Configuration
 public class TestConfig {
 	
